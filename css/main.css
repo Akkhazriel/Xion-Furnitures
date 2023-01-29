@@ -1,0 +1,47 @@
+@import url(./reset.css);
+@import url(./header.css);
+
+body {
+    max-width: max-content;
+    min-height: 100vh;
+}
+
+@font-face {
+    font-family: inter_m, sans-serif;
+    src: url(../fonts/Inter-Medium.ttf);
+}
+
+@font-face {
+    font-family: inter_r, sans-serif;
+    src: url(../fonts/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: poppins_r, sans-serif;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: poppins_sb, sans-serif;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: PTSerif_b, sans-serif;
+    src: url(../fonts/PTSerif-Bold.ttf);
+}
+
+@font-face {
+    font-family: PTSerif_r, sans-serif;
+    src: url(../fonts/PTSerif-Regular.ttf);
+}
+
+@font-face {
+    font-family: publicSans_m, sans-serif;
+    src: url(../fonts/PublicSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: publicSans_r, sans-serif;
+    src: url(../fonts/PublicSans-Regular.ttf);
+}
